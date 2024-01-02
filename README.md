@@ -1,6 +1,9 @@
 # Buck-Linear-Multiple-Voltage-Values-Regulator
+
 The Energy Regulator Circuit is a hardware project designed to efficiently regulate voltage levels for electronic devices. 
-Project Name
+
+PCB_Reg_3D. 
+
 Brief description of your project.
 
 Table of Contents
