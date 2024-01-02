@@ -2,7 +2,7 @@
 
 The Energy Regulator Circuit is a hardware project designed to efficiently regulate voltage levels for electronic devices. 
 
-![PCB_Reg_3D](PCB_Reg_3D.png])
+![PCB_Reg_3D]([PCB_Reg_3D.png])
 
 Brief description of your project.
 This design is a custom developed board for multiple power system regulated values starting from 24v to 5V in between 24V to 12V , 12V to 9V , 9V to 5V , 5V to 3.3V suitable for multiple applications. 
