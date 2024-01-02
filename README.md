@@ -5,21 +5,17 @@ The Energy Regulator Circuit is a hardware project designed to efficiently regul
 ![PCB_Reg_3D]([PCB_Reg_3D.png])
 
 Brief description of your project.
-This design is a custom developed board for multiple power system regulated values starting from 24v to 5V in between 24V to 12V , 12V to 9V , 9V to 5V , 5V to 3.3V suitable for multiple applications. 
+This design is a custom developed board for multiple power system regulated values starting from 24v to 5V in between 24V to 12V , 12V to 5V , 5V to 3.3V , suitable for multiple applications. The editing for this board is valid to add extra voltage source values. 
 
-Table of Contents
-Introduction
-Features
-Schematic
-Components
-Usage
-Contributing
-License
 
 Introduction
+This board is designed to be a multi-function supply module from 24V to a sequence of 12v, 9v, 5v and 3.3v. 
 
 Features
 
+The TPS54331 device is a 28-V, 3-A with 570Khz.
+DiodesZetex, AP1509-50SG-13 DC-DC Converter 2A 8-Pin, SOP, 150KHz, 2A PWM BUCK DC/DC CONVERTER, Efficiency 83%.
+Texas Instruments TLV70212DBVT, Low Noise LDO Voltage Regulator, 300mA, 1.2  4.8 V 2%, 5-Pin SOT-23
 Step-down Buck Converters:
 
 24V to 12V
@@ -31,7 +27,6 @@ Connectors:
 Four 2-pin connectors for drawing specific energy values.
 
 Schematic
-
 git clone <C:\Users\User\Desktop\Vreg_PRJ>
 
 
